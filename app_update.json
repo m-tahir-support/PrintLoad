@@ -1,0 +1,12 @@
+{
+  "MainAppVersion": {
+    "AppVersion": "1.1.10",
+    "IsForceUpdate": true,
+    "IsVersionCheck": true
+  },
+  "MainAppVersionTesting": {
+    "AppVersion": "1.1.10",
+    "IsForceUpdate": true,
+    "IsVersionCheck": true
+  }
+}
